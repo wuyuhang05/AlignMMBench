@@ -1,4 +1,4 @@
-# AlignMMBench: Evaluating Chinese Multimodal Alignment in Large Vision-Language Models
+# AlignMMBench: Evaluating Chinese Multimodal Alignment in Large Vision-Language Models (ACL' 25)
 
 <font size=4><div align='center' > [[🍎 Project Page](https://alignmmbench.github.io/)] [[📖 arXiv Paper](https://arxiv.org/pdf/2406.09295)] [[📊 Dataset](https://huggingface.co/datasets/THUDM/AlignMMBench)]  </div></font>
 
@@ -9,6 +9,8 @@
 ---
 
 ## 🔥 News
+
+* **`2025.05.20`** 🌟 Our paper has been accepted to ACL 2025!
 
 * **`2024.09.23`** 🌟 We provide the code, model, and data for evaluation!
 * **`2024.06.14`** 🌟 We released AlignMMBench, a comprehensive alignment benchmark for vision language models!
